@@ -1,0 +1,59 @@
+{
+    "Products": [
+        {
+            "ProductId": "1239102",
+            "Name": "Power Projector 4713",
+            "Category": "Projector"
+        },
+        {
+            "ProductId": "2212-121-828",
+            "Name": "Power Tag",
+            "Category": "Graphics Card"
+        },
+        {
+            "ProductId": "K47322.1",
+            "Name": "Webcam Small",
+            "Category": "Graphics Card"
+        },
+        {
+            "ProductId": "22134T",
+            "Name": "Webcam",
+            "Category": "Accessory"
+        },
+        {
+            "ProductId": "P1239823",
+            "Name": "Monitor Locking Cable",
+            "Category": "Accessory"
+        },
+        {
+            "ProductId": "214-121-828",
+            "Name": "Laptop Case",
+            "Category": "Accessory"
+        },
+        {
+            "ProductId": "215-121-828",
+            "Name": "Laptop Small",
+            "Category": "Accessory"
+        },
+        {
+            "ProductId": "XKP-312548",
+            "Name": "USB Stick 16 GByte",
+            "Category": "Accessory"
+        },
+        {
+            "ProductId": "KTZ-12012.V2",
+            "Name": "Deskjet Super Highspeed",
+            "Category": "Printer"
+        },
+        {
+            "ProductId": "KTZ-12012.V2",
+            "Name": "Deskjet Super1",
+            "Category": "Printer"
+        },
+        {
+            "ProductId": "KTZ-12012.V2",
+            "Name": "Deskjet Super2",
+            "Category": "Printer"
+        }
+    ]
+}
